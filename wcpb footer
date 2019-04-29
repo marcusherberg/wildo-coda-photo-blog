@@ -1,0 +1,14 @@
+....
+...
+<footer>
+            <P class="p1-footer"> Posted by: The night classe of WCS</P>
+            <p class="p2-footer"> Contact informations: <a href="Infos.wcs@gmail.com"> Inofos.wcs@gmail.com</a></p>
+            <p class="p3-footer"> Copy right: All rights reserved for <strong>WCS and Wildo</strong></p>
+            <p><strong>Note:</strong>The footer must be seen by everybody</p>
+            <p><img class="footer-image" src="https://upload.wikimedia.org/wikipedia/commons/5/50/Manneken_Pis%2C_Brussels_%28DSCF4466-crop%29.jpg">
+            
+ 
+        </footer>
+        ...
+        ...
+        
